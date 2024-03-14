@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ac31669.css",
+    "main.js": "/static/js/main.63d57eb5.js",
+    "static/media/trello-logo-blue.svg": "/static/media/trello-logo-blue.6b9d2344194f27518d7fc80947e88af6.svg",
+    "index.html": "/index.html",
+    "main.9ac31669.css.map": "/static/css/main.9ac31669.css.map",
+    "main.63d57eb5.js.map": "/static/js/main.63d57eb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac31669.css",
+    "static/js/main.63d57eb5.js"
+  ]
+}
