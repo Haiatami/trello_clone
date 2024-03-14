@@ -1,0 +1,22 @@
+{
+	"name": "trello_clone",
+	"version": "1.0.0",
+	"description": "Trello Clone web app built with the MERN Stack",
+	"main": "server.js",
+	"type": "module",
+	"scripts": {
+		"start": "node backend/server.js",
+		"dev": "nodemon backend/server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Haiatami/trello_clone.git"
+	},
+	"keywords": [
+		"TrelloClone",
+		"MERN",
+		"ReduxToolkit"
+	],
+	"author": "Hoang Hai",
+	"license": "MIT"
+}
